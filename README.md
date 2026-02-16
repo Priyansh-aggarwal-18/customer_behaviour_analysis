@@ -21,27 +21,28 @@ The workflow includes:
  - Executive presentation using Gamma
 
 The objective was to convert raw data into actionable insights that support data-driven decision-making.
+#
 
 📂 Dataset
 
-Source: Internal Dataset
+ - Source: Internal Dataset
 
-Format: CSV
+ - Format: CSV
 
-Domain: Sales / Customer Analytics / Operations
+ - Domain: Sales / Customer Analytics / Operations
 
-Records: 3900
+ - Records: 3900
 
 The dataset contains structured transactional and categorical data used for trend analysis, performance evaluation, and segmentation.
-
+#
 🛠 Tech Stack
 
-Python: Pandas, NumPy, Matplotlib
+ - Python: Pandas, NumPy, Matplotlib
 
-SQL: PostgreSQL
+ - SQL: PostgreSQL
 
-Power BI: Data modeling, DAX, dashboard design
+ - Power BI: Data modeling, DAX, dashboard design
 
-Gamma: Executive presentation
+ - Gamma: Executive presentation
 
-Jupyter Notebook
+ - Jupyter Notebook
