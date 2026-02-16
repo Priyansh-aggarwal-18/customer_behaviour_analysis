@@ -1,5 +1,5 @@
-# Customer Behaviour Analysis
-📊 End-to-End Data Analytics Project
+## Customer Behaviour Analysis
+# 📊 Customer Shopping Behavior Data Analytics Project
 🚀 Project Summary
 
 This project showcases a complete data analytics pipeline — from raw data to business insights and executive presentation.
