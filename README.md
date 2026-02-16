@@ -6,19 +6,19 @@ This project showcases a complete data analytics pipeline — from raw data to b
 
 The workflow includes:
 
-Data extraction and preprocessing using Python
+ - Data extraction and preprocessing using Python
 
-Exploratory Data Analysis (EDA)
+ - Exploratory Data Analysis (EDA)
 
-Data cleaning and transformation
+ - Data cleaning and transformation
 
-SQL-based analytical queries (PostgreSQL/MySQL/SQL Server)
+ - SQL-based analytical queries (PostgreSQL/MySQL/SQL Server)
 
-Interactive Power BI dashboard development
+ - Interactive Power BI dashboard development
 
-Insight report creation
+ - Insight report creation
 
-Executive presentation using Gamma
+ - Executive presentation using Gamma
 
 The objective was to convert raw data into actionable insights that support data-driven decision-making.
 
